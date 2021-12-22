@@ -1,7 +1,8 @@
 # Airline-Reservation-SpringBoot-Angular
 
 ## PROJECT - AIRLINES	(a SpringBoot-Angular Application) <br/> 
-  by Anchal Maheshwari (https://github.com/manchal395), Gautam, Gurdeep, Animesh
+  Developed by Anchal Maheshwari (https://github.com/manchal395), Gautam, Gurdeep, Animesh <br/>
+  Mentored by Mr. Majrul Ansari (https://www.linkedin.com/in/majrul/)
 > Repository for Part A:	project-gladiator (https://github.com/manchal395/project-gladiator) <br/>
 > Repository for Part B:	angular-project-gladiator (https://github.com/manchal395/angular-project-gladiator)
 
